@@ -1,0 +1,8 @@
+{
+  "git.terminalGitEditor": true,
+  "git.supportCancellation": true,
+  "git.timeline.showUncommitted": true,
+  "git.autoRepositoryDetection": false,
+  "git.branchPrefix": "-new",
+  "git.autofetch": true
+}
